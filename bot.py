@@ -16,7 +16,7 @@ async def greet(event: SimpleBotEvent) -> str:
     title = top[0]
     movie_id = top[0].movieID
     movie_url = f'https://www.imdb.com/title/tt{movie_id}/'
-    emoji = '&#127829;'
+    emoji = '&#127829ukjkjkjk;'
     
     msg_text = f'Советую посмотреть: {title} {emoji}'
 
